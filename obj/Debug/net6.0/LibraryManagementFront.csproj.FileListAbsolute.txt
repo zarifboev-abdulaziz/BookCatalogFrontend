@@ -230,3 +230,8 @@ C:\Users\abdul\Desktop\LibraryManagementFront\bin\Debug\net6.0\app\appsettings.D
 C:\Users\abdul\Desktop\LibraryManagementFront\bin\Debug\net6.0\app\appsettings.json
 C:\Users\abdul\Desktop\LibraryManagementFront\bin\Debug\net6.0\app\LibraryManagementFront.deps.json
 C:\Users\abdul\Desktop\LibraryManagementFront\bin\Debug\net6.0\app\LibraryManagementFront.runtimeconfig.json
+C:\Users\abdul\Desktop\LibraryManagementFront\bin\Debug\net6.0\app\app\web.config
+C:\Users\abdul\Desktop\LibraryManagementFront\bin\Debug\net6.0\app\app\appsettings.Development.json
+C:\Users\abdul\Desktop\LibraryManagementFront\bin\Debug\net6.0\app\app\appsettings.json
+C:\Users\abdul\Desktop\LibraryManagementFront\bin\Debug\net6.0\app\app\LibraryManagementFront.deps.json
+C:\Users\abdul\Desktop\LibraryManagementFront\bin\Debug\net6.0\app\app\LibraryManagementFront.runtimeconfig.json

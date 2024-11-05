@@ -1,9 +1,14 @@
 C:\Users\abdul\Desktop\LibraryManagementFront\app\LibraryManagementFront.exe
+C:\Users\abdul\Desktop\LibraryManagementFront\app\app\app\web.config
 C:\Users\abdul\Desktop\LibraryManagementFront\app\app\web.config
 C:\Users\abdul\Desktop\LibraryManagementFront\app\appsettings.Development.json
 C:\Users\abdul\Desktop\LibraryManagementFront\app\appsettings.json
 C:\Users\abdul\Desktop\LibraryManagementFront\app\app\appsettings.Development.json
 C:\Users\abdul\Desktop\LibraryManagementFront\app\app\appsettings.json
+C:\Users\abdul\Desktop\LibraryManagementFront\app\app\app\appsettings.Development.json
+C:\Users\abdul\Desktop\LibraryManagementFront\app\app\app\appsettings.json
+C:\Users\abdul\Desktop\LibraryManagementFront\app\app\app\LibraryManagementFront.deps.json
+C:\Users\abdul\Desktop\LibraryManagementFront\app\app\app\LibraryManagementFront.runtimeconfig.json
 C:\Users\abdul\Desktop\LibraryManagementFront\app\app\LibraryManagementFront.deps.json
 C:\Users\abdul\Desktop\LibraryManagementFront\app\app\LibraryManagementFront.runtimeconfig.json
 C:\Users\abdul\Desktop\LibraryManagementFront\app\LibraryManagementFront.dll
