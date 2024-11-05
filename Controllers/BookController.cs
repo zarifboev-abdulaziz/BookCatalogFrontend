@@ -10,7 +10,7 @@ namespace LibraryManagementFront.Controllers
 {
     public class BookController : Controller
     {
-        public string BASEURL = "http://ec2-52-59-253-124.eu-central-1.compute.amazonaws.com/";
+        public string BASEURL = "http://ec2-18-194-186-54.eu-central-1.compute.amazonaws.com/";
 
         public string BASEURL_local = "http://localhost:8000/";
 

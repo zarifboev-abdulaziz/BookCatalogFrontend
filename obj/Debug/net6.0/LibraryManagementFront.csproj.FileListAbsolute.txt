@@ -225,3 +225,8 @@ C:\Users\abdul\Desktop\LibraryManagementFront\bin\Debug\net6.0\runtimes\win\lib\
 C:\Users\abdul\Desktop\LibraryManagementFront\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\abdul\Desktop\LibraryManagementFront\obj\Debug\net6.0\LibraryManagementFront.csproj.AssemblyReference.cache
 C:\Users\abdul\Desktop\LibraryManagementFront\obj\Debug\net6.0\LibraryManagementFront.csproj.CopyComplete
+C:\Users\abdul\Desktop\LibraryManagementFront\bin\Debug\net6.0\app\web.config
+C:\Users\abdul\Desktop\LibraryManagementFront\bin\Debug\net6.0\app\appsettings.Development.json
+C:\Users\abdul\Desktop\LibraryManagementFront\bin\Debug\net6.0\app\appsettings.json
+C:\Users\abdul\Desktop\LibraryManagementFront\bin\Debug\net6.0\app\LibraryManagementFront.deps.json
+C:\Users\abdul\Desktop\LibraryManagementFront\bin\Debug\net6.0\app\LibraryManagementFront.runtimeconfig.json
